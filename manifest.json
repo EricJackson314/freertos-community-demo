@@ -1,0 +1,7 @@
+{
+  "name": "Sprint Demo",
+  "description": "This is a demonstration for the sprint demo.",
+  "version": "1.0.0",
+  "category": "other",
+  "platforms": ["cypress"]
+}
