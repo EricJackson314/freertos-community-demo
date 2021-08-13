@@ -1,4 +1,4 @@
-# freertos-community-demo
+# Sprint Demo
 
 ## Foo
 
